@@ -1,0 +1,12 @@
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\bin\Debug\netcoreapp2.0\ValidateRequestTDN.deps.json
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\bin\Debug\netcoreapp2.0\ValidateRequestTDN.dll
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\bin\Debug\netcoreapp2.0\ValidateRequestTDN.pdb
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\bin\Debug\netcoreapp2.0\ValidTry.Interface.dll
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\bin\Debug\netcoreapp2.0\ValidTry.Interface.pdb
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.csprojAssemblyReference.cache
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.csproj.CoreCompileInputs.cache
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.AssemblyInfoInputs.cache
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.AssemblyInfo.cs
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.csproj.CopyComplete
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.dll
+C:\Users\relj\source\repos\ValidTry\ValidateRequestTDN\obj\Debug\netcoreapp2.0\ValidateRequestTDN.pdb

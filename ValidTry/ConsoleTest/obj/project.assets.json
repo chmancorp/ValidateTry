@@ -740,23 +740,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\relj\\.nuget\\packages\\": {},
+    "C:\\Users\\chcorp\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\relj\\source\\repos\\ValidTry\\ConsoleTest\\ConsoleTest.csproj",
+      "projectUniqueName": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ConsoleTest\\ConsoleTest.csproj",
       "projectName": "ConsoleTest",
-      "projectPath": "C:\\Users\\relj\\source\\repos\\ValidTry\\ConsoleTest\\ConsoleTest.csproj",
-      "packagesPath": "C:\\Users\\relj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\relj\\source\\repos\\ValidTry\\ConsoleTest\\obj\\",
+      "projectPath": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ConsoleTest\\ConsoleTest.csproj",
+      "packagesPath": "C:\\Users\\chcorp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\relj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chcorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -769,8 +769,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\relj\\source\\repos\\ValidTry\\ValidateRequestTDN\\ValidTry.ValidateRequestTDN.csproj": {
-              "projectPath": "C:\\Users\\relj\\source\\repos\\ValidTry\\ValidateRequestTDN\\ValidTry.ValidateRequestTDN.csproj"
+            "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ValidateRequestTDN\\ValidTry.ValidateRequestTDN.csproj": {
+              "projectPath": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ValidateRequestTDN\\ValidTry.ValidateRequestTDN.csproj"
             }
           }
         }

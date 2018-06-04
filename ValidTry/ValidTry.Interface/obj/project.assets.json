@@ -702,23 +702,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\relj\\.nuget\\packages\\": {},
+    "C:\\Users\\chcorp\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\relj\\source\\repos\\ValidTry\\ValidTry.Interface\\ValidTry.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ValidTry.Interface\\ValidTry.Interface.csproj",
       "projectName": "ValidTry.Interface",
-      "projectPath": "C:\\Users\\relj\\source\\repos\\ValidTry\\ValidTry.Interface\\ValidTry.Interface.csproj",
-      "packagesPath": "C:\\Users\\relj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\relj\\source\\repos\\ValidTry\\ValidTry.Interface\\obj\\",
+      "projectPath": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ValidTry.Interface\\ValidTry.Interface.csproj",
+      "packagesPath": "C:\\Users\\chcorp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chcorp\\Documents\\proyecto trabajo\\Blink\\ValidateTry\\ValidTry\\ValidTry.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\relj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chcorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

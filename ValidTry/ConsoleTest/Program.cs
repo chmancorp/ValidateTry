@@ -9,7 +9,9 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             var test = new ValidTryContent();
-            var abc = test.validIntents(true);
+            var abc = test.validIntents(true, 1);
+
+            Console.ReadKey();
         }
     }
     public class TESTT

@@ -1,15 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Text;
 
-namespace ValidateRequestTDN
+using Newtonsoft.Json;
+namespace ValidTry.ValidateRequestTDN
 {
     public class DataTest
     {
         public string nombre { get; set; }
         public string test { get; set; }
 
-        
+
 
         public string getData()
         {
@@ -19,7 +21,9 @@ namespace ValidateRequestTDN
                 test = "Star"
             };
 
-            return jsonTest.ToString();
+            var f = JsonConvert.SerializeObject(jsonTest);
+            
+            return  f;
 
         }
 

@@ -11,19 +11,11 @@ namespace ValidTry.Interface
     {
         /// <summary>
         ///this class validate the intents that the client change his/her
-        ///name,direction or name
         /// </summary>
         /// <param name="intent"></param>
+        /// <param name="requestId"></param>
         /// <returns></returns>
-        bool validIntents(bool intent);
-        /// <summary>
-        /// This class validate de answer for the circle of credit(DENA)
-        /// </summary>
-        void validCircle();
-        /// <summary>
-        /// Class for validate the intents that the user sends the SMS
-        /// </summary>
-        void validSMS();
+        bool validIntents(bool intent, int userId, int catalogId);
 
     }
 }

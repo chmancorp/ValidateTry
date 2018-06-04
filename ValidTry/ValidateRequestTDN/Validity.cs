@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using ValidTry.Interface;
 
-namespace ValidateRequestTDN
+namespace ValidTry.ValidateRequestTDN
 {
     public class Validity : IValidity
     {

@@ -6,7 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ValidateRequestTDN\ValidateRequestTDN.csproj" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ValidateRequestTDN\ValidTry.ValidateRequestTDN.csproj" />
   </ItemGroup>
 
 </Project>

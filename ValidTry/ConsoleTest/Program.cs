@@ -1,15 +1,17 @@
-﻿using System;
-using ValidateRequestTDN;
-using ValidTry.Interface;
-
+﻿
 namespace ConsoleTest
 {
+    using System;
+    using ValidTry.ValidateRequestTDN;
+    using ValidTry.Interface;
+
     public class Program
     {
         static void Main(string[] args)
         {
             var test = new ValidTryContent();
-            var abc = test.validIntents(true, 1);
+            var abc = test.validIntents(true, 1,1
+                );
 
             Console.ReadKey();
         }

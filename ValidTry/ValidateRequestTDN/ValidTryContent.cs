@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Text;
 using ValidTry.Interface;
 using Newtonsoft.Json;
+using System.Net.Http;
+using System.Net.Http.Headers;
+
 namespace ValidTry.ValidateRequestTDN
 {
     public class ValidTryContent : IValidTryContent
     {
+        static HttpClient client = new HttpClient();
 
         public bool validIntents(bool intent, int userId, int catalogId)
         {
@@ -16,9 +20,23 @@ namespace ValidTry.ValidateRequestTDN
             if (intent)
             {
                 //Consumo servicios
-                    //Consumo de servicio para obtener el numero maximo de intentos
-                        /*****IMPLEMENTAR AQUI EL CONSUMO DE SERVICIOS
-                         ******numberIntent = 1 Ejemplo*/
+                //Consumo de servicio para obtener el numero maximo de intentos
+                /*****IMPLEMENTAR AQUI EL CONSUMO DE SERVICIOS
+                 ******numberIntent = 1 Ejemplo*/
+                client.BaseAddress = new Uri("http://localhost:61085/api/");
+                //client.DefaultRequestHeaders.Accept.Clear();
+                //client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                var taskResult = client.GetAsync("configServices");
+                taskResult.Wait();
+                var result = taskResult.Result;
+                if (result.IsSuccessStatusCode)
+                {
+                    var readResult = result.Content.ReadAsStringAsync();
+                    readResult.Wait();
+                    intentNum = int.Parse(readResult.Result);
+                   
+                }
                     //Termino de servicio de numero maximo
 
                     //Consumimos servicio para obtener el numero que ha usado el usuario

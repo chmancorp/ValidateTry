@@ -9,7 +9,7 @@
       "ConsoleTest/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
-          "ValidateRequestTDN": "1.0.0"
+          "ValidTry.ValidateRequestTDN": "1.0.0"
         },
         "runtime": {
           "ConsoleTest.dll": {}
@@ -20,21 +20,21 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "ValidateRequestTDN/1.0.0": {
-        "dependencies": {
-          "Newtonsoft.Json": "11.0.2",
-          "ValidTry.Interface": "1.0.0"
-        },
-        "runtime": {
-          "ValidateRequestTDN.dll": {}
-        }
-      },
       "ValidTry.Interface/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
           "ValidTry.Interface.dll": {}
+        }
+      },
+      "ValidTry.ValidateRequestTDN/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "ValidTry.Interface": "1.0.0"
+        },
+        "runtime": {
+          "ValidTry.ValidateRequestTDN.dll": {}
         }
       }
     }
@@ -52,12 +52,12 @@
       "path": "newtonsoft.json/11.0.2",
       "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
     },
-    "ValidateRequestTDN/1.0.0": {
+    "ValidTry.Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "ValidTry.Interface/1.0.0": {
+    "ValidTry.ValidateRequestTDN/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

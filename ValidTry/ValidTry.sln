@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidTry.ValidateRequestTDN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{E50AACCE-4591-4696-90A6-D13EA2667285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidTry.Validity", "ValidTry.Validity\ValidTry.Validity.csproj", "{8C54A8DF-9C2D-4464-86BB-24966E59574D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidTry.Validity", "ValidTry.Validity\ValidTry.Validity.csproj", "{8C54A8DF-9C2D-4464-86BB-24966E59574D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTryValidation", "UnitTestTryValidation\UnitTestTryValidation.csproj", "{77E9F3FE-7835-40FD-A33C-16F966BF0B8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8C54A8DF-9C2D-4464-86BB-24966E59574D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C54A8DF-9C2D-4464-86BB-24966E59574D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C54A8DF-9C2D-4464-86BB-24966E59574D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E9F3FE-7835-40FD-A33C-16F966BF0B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E9F3FE-7835-40FD-A33C-16F966BF0B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E9F3FE-7835-40FD-A33C-16F966BF0B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E9F3FE-7835-40FD-A33C-16F966BF0B8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

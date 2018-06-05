@@ -7,3 +7,12 @@ C:\Users\relj\source\repos\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\V
 C:\Users\relj\source\repos\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.AssemblyInfo.cs
 C:\Users\relj\source\repos\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.dll
 C:\Users\relj\source\repos\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.pdb
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\bin\Debug\netcoreapp2.0\ValidTry.Interface.deps.json
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\bin\Debug\netcoreapp2.0\ValidTry.Interface.dll
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\bin\Debug\netcoreapp2.0\ValidTry.Interface.pdb
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.csprojAssemblyReference.cache
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.csproj.CoreCompileInputs.cache
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.AssemblyInfoInputs.cache
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.AssemblyInfo.cs
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.dll
+C:\Users\relj\Documents\Provident\ValidateTry\ValidTry\ValidTry.Interface\obj\Debug\netcoreapp2.0\ValidTry.Interface.pdb
